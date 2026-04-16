@@ -32,7 +32,7 @@ The dataset had several issues that needed to be addressed:
 - Inconsistent categorical data (e.g., cuisines)  
 - Skewed distributions in votes and photos  
 
-### ✔ Steps Taken:
+### Steps Taken:
 - Removed unnecessary columns to reduce noise  
 - Handled missing values appropriately  
 - Cleaned and standardized categorical features  
